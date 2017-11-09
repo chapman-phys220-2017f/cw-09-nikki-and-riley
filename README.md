@@ -1,6 +1,6 @@
 # PHYS220 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Riley and Nikki**
 
 [![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-09-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-09-YOURNAME)
 
@@ -19,9 +19,8 @@ This week, you will explore the differences between ```python/numpy``` and the e
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
+It is good for me to know how similar the synthax of plotting in python and MATLAB are, so that, if I ever need to use MATLAB, I can feel more familiar with the code.
 
-**CHANGEME**
 
 ## Honor Pledge
 
@@ -32,4 +31,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Riley and Nikki**
